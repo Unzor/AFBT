@@ -1,0 +1,7 @@
+Build: {
+touch one.js
+echo \"console.log(1)\" > one.js
+};
+Export: {
+one.js
+};
